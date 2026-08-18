@@ -14,6 +14,7 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
+        "@tailwindcss/vite": "^4.3.3",
         "alpinejs": "^3.16.2"
     }
 }
